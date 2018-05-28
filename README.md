@@ -47,12 +47,10 @@
  
  [《Android消息机制之Looper》](https://github.com/DingoDemon/AndroidNotes/blob/master/AndroidBasicKnowledgeNotes/Looper.md)
  
-  [《Android消息机制之Handler》](https://github.com/DingoDemon/AndroidNotes/blob/master/AndroidBasicKnowledgeNotes/Handler.md)
+ [《Android消息机制之Handler》](https://github.com/DingoDemon/AndroidNotes/blob/master/AndroidBasicKnowledgeNotes/Handler.md)
  
  
- 
-
- 
+ [《Android内存泄漏总结》](https://github.com/DingoDemon/AndroidNotes/blob/master/AndroidBasicKnowledgeNotes/Android%E5%86%85%E5%AD%98%E6%B3%84%E6%BC%8F%E6%80%BB%E7%BB%93.md)
  
 ## 安卓优秀框架源码阅读
 
@@ -81,4 +79,6 @@
 [《Android面试刷题(数据结构)》](https://github.com/DingoDemon/AndroidNotes/blob/master/InterviewAbout/Android%E9%9D%A2%E8%AF%95%E5%88%B7%E9%A2%98(%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84).md)
 
 [《Android面试刷题(安卓基础)》](https://github.com/DingoDemon/AndroidNotes/blob/master/InterviewAbout/Android%E9%9D%A2%E8%AF%95%E5%88%B7%E9%A2%98(%E5%AE%89%E5%8D%93%E5%9F%BA%E7%A1%80).md)
+ 
+ 
  
