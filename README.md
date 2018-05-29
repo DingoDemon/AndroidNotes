@@ -52,6 +52,9 @@
  
  [《Android内存泄漏总结》](https://github.com/DingoDemon/AndroidNotes/blob/master/AndroidBasicKnowledgeNotes/Android%E5%86%85%E5%AD%98%E6%B3%84%E6%BC%8F%E6%80%BB%E7%BB%93.md)
  
+ 
+ [《Bitmap的使用和优化》](https://github.com/DingoDemon/AndroidNotes/blob/master/AndroidBasicKnowledgeNotes/Bitmap.md)
+ 
 ## 安卓优秀框架源码阅读
 
 [《Okhttp之RealCall》](https://github.com/DingoDemon/AndroidNotes/blob/master/AndroidFrameSourceCodeReadNotes/okhttp/Okhttp_Source_Code_RealCall.md)

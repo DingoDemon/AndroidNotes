@@ -236,8 +236,8 @@ If known, this string is set to the mimetype of the decoded image.If not known, 
         int originHeight = options.outHeight;
 
         while (originWidth > rWidth || originHeight > rHeight) {
-            originWidth = originWidth >>1;
-            originHeight = originHeight >>1;
+            originWidth = originWidth >> 1;
+            originHeight = originHeight >> 1;
             inSampleSize = inSampleSize << 1;
         }
         return inSampleSize;
@@ -277,7 +277,7 @@ public boolean compress(CompressFormat format, int quality, OutputStream stream)
 
 
 #### 2.长宽：
-方法很多了，这里不再赘述，什么matrix啊，上文中的sampleSize均可
+方法很多了，这里不再赘述，什么matrix，上文中的sampleSize均可
 
 
 
