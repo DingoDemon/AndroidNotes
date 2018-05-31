@@ -130,6 +130,7 @@ also translate by my 腊鸡 English：
     }
 ```
 
+
 ```java
  public void trimToSize(int maxSize) {
         while (true) {
@@ -164,6 +165,7 @@ also translate by my 腊鸡 English：
 ```
 
 当调用LruCache的get()方法获取集合中的缓存对象时，就代表访问了一次该元素，将会更新队列，保持整个队列是按照访问顺序排序。这个更新过程就是在LinkedHashMap中的get()方法中完成的。
+
 
 ```java
    public final V get(K key) {
@@ -211,9 +213,11 @@ also translate by my 腊鸡 English：
     }
 ```
 
+
 这个方法分上下两部分来分析：
 
 上半部分：
+
 
 ```java
       V mapValue;
@@ -227,7 +231,9 @@ also translate by my 腊鸡 English：
         }
 
 ```
+
 map.get(key) in LinkedHashMap:
+
 
 ```java
     public V get(Object key) {
@@ -239,7 +245,7 @@ map.get(key) in LinkedHashMap:
         return e.value;
     }
 ```
-
+插入Node后LinkedHashMap自身排序：
 
 ```java
  void afterNodeAccess(Node<K,V> e) { // move node to last

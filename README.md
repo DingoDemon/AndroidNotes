@@ -55,6 +55,9 @@
  
  [《Bitmap的使用和优化》](https://github.com/DingoDemon/AndroidNotes/blob/master/AndroidBasicKnowledgeNotes/Bitmap.md)
  
+  [《LruCache》]( https://github.com/DingoDemon/AndroidNotes/blob/master/AndroidBasicKnowledgeNotes/LruCache.md)
+
+ 
 ## 安卓优秀框架源码阅读
 
 [《Okhttp之RealCall》](https://github.com/DingoDemon/AndroidNotes/blob/master/AndroidFrameSourceCodeReadNotes/okhttp/Okhttp_Source_Code_RealCall.md)
