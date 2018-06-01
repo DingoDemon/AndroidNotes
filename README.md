@@ -87,4 +87,5 @@
 [《Android面试刷题(安卓基础)》](https://github.com/DingoDemon/AndroidNotes/blob/master/InterviewAbout/Android%E9%9D%A2%E8%AF%95%E5%88%B7%E9%A2%98(%E5%AE%89%E5%8D%93%E5%9F%BA%E7%A1%80).md)
  
  
+[《Android面试刷题(原理性问题)》]( https://github.com/DingoDemon/AndroidNotes/blob/master/InterviewAbout/Android%E9%9D%A2%E8%AF%95%E5%88%B7%E9%A2%98(%E5%8E%9F%E7%90%86%E6%80%A7%E9%97%AE%E9%A2%98).md)
  
