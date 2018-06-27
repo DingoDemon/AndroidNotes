@@ -79,6 +79,10 @@
 
 [《二叉查找树》](https://github.com/DingoDemon/AndroidNotes/blob/master/OtherBasicKnowledge/BinarySearchTree.md)
 
+[JVM内存区域](https://github.com/DingoDemon/AndroidNotes/blob/master/OtherBasicKnowledge/%E3%80%8A%E6%B7%B1%E5%85%A5%E7%90%86%E8%A7%A3JVM(%E5%91%A8%E5%BF%97%E6%98%8E)%E3%80%8B%E9%98%85%E8%AF%BB%E7%AC%94%E8%AE%B01.md)
+
+[垃圾收集算法](https://github.com/DingoDemon/AndroidNotes/blob/master/OtherBasicKnowledge/%E3%80%8A%E6%B7%B1%E5%85%A5%E7%90%86%E8%A7%A3JVM(%E5%91%A8%E5%BF%97%E6%98%8E)%E3%80%8B%E9%98%85%E8%AF%BB%E7%AC%94%E8%AE%B02.md)
+
 ## 安卓面试相关
 [《Android面试刷题(Java基础)》](https://github.com/DingoDemon/AndroidNotes/blob/master/InterviewAbout/Android%E9%9D%A2%E8%AF%95%E5%88%B7%E9%A2%98(Java%E5%9F%BA%E7%A1%80).md)
 
